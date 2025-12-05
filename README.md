@@ -2,7 +2,7 @@
 
 This notebook explores time series forecasting for the prices of Gold (via Tether Gold), Bitcoin, and Ethereum using Python.
 
-![Graphs of gold, bitcoin, and ethereum prices over time]("https://github.com/user-attachments/assets/fd4869bf-5475-486f-9197-75edd0aaa9a6")
+![Graphs of gold, bitcoin, and ethereum prices over time](https://github.com/user-attachments/assets/fd4869bf-5475-486f-9197-75edd0aaa9a6)
 
 ## Project Objective
 
