@@ -56,6 +56,8 @@ The forecasting process involved several steps:
 *   **Naive Model Competitiveness**: The Naive model often performed comparably to more complex models like ARIMA and Seasonal ARIMA in terms of overall MAE, especially in cross-validation. This suggests that for highly volatile series, simpler models can sometimes be just as effective (or ineffective) as more complex ones, while being significantly faster to train and predict.
 *   **Historic Average Inefficiency**: The Historic Average model consistently showed the highest error, indicating it's not suitable for forecasting these types of volatile assets.
 
+![High mean absolute error for models](https://github.com/user-attachments/assets/2d1409ca-89a9-4ec7-9d7b-3552e7f02922)
+
 ## Tools and Libraries
 
 *   **Python 3**
